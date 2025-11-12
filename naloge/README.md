@@ -189,6 +189,8 @@ Vsaka naloga vas vodi korak bližje k obvladovanju osnovnih in naprednih koncept
 **Cilj:** Poiščite skrite naloge v tem repozitoriju! 🕵️‍♂️  
 💡 *Namig:* Prva se skriva v ločeni veji... 😉
 
+1. Kdor je prvi dodal datoteko data.txt, ta je tudi vpisal v naslednji spremembi navodila, kako dalje ;)
+
 ---
 
 ### 🧠 Nasvet
