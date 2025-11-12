@@ -1,0 +1,1 @@
+V komentarju zadnje spremembe datoteke data.txt je vpisano, kaj narediš z vsebino datoteke data.txt
